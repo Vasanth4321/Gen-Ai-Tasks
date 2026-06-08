@@ -10,10 +10,10 @@ Gen AI Tasks/
 ├── README.md
 ├── .gitignore
 │
-├── Task1/
+├── Task_1/
 │   └── GenAI_Task_01.ipynb
 │
-└── Task2/
+└── Task_2/
     ├── app.py
     ├── gemini_client.py
     ├── requirements.txt
@@ -79,7 +79,7 @@ jupyter notebook
 and launch:
 
 ```text
-Task1/GenAI_Task_01.ipynb
+Task_1/GenAI_Task_01.ipynb
 ```
 
 ### Task 2

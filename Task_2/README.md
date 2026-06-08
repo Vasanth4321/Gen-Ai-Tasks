@@ -20,7 +20,7 @@ The application helps users generate blog ideas, create outlines, improve conten
 ## Project Structure
 
 ```text
-Task2/
+Task_2/
 │
 ├── app.py
 ├── gemini_client.py
